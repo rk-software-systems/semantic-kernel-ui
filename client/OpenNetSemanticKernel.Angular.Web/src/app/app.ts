@@ -10,3 +10,5 @@ import { RouterOutlet } from '@angular/router';
 export class App {
   protected title = 'OpenNetSemanticKernel.Angular.Web';
 }
+
+// The new modular structure is now in place. Remove legacy flat app files that are no longer needed.
