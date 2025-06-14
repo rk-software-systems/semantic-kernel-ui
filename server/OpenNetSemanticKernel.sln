@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenNetSemanticKernel.API", "OpenNetSemanticKernel.API\OpenNetSemanticKernel.API.csproj", "{0D1F34FF-F08F-421B-8BC9-38C05CFF9B2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenNetSemanticKernel.Tests", "OpenNetSemanticKernel.Tests\OpenNetSemanticKernel.Tests.csproj", "{4653416A-A52F-4CFC-BC5C-5DBCE328396D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpennetSemanticKernel.Kernel", "OpennetSemanticKernel.Kernel\OpennetSemanticKernel.Kernel.csproj", "{0F3D40D4-D074-49D4-B8A5-0B30ADCFC1B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D1F34FF-F08F-421B-8BC9-38C05CFF9B2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D1F34FF-F08F-421B-8BC9-38C05CFF9B2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D1F34FF-F08F-421B-8BC9-38C05CFF9B2C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0D1F34FF-F08F-421B-8BC9-38C05CFF9B2C}.Debug|x64.Build.0 = Debug|Any CPU
+		{0D1F34FF-F08F-421B-8BC9-38C05CFF9B2C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0D1F34FF-F08F-421B-8BC9-38C05CFF9B2C}.Debug|x86.Build.0 = Debug|Any CPU
+		{0D1F34FF-F08F-421B-8BC9-38C05CFF9B2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D1F34FF-F08F-421B-8BC9-38C05CFF9B2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D1F34FF-F08F-421B-8BC9-38C05CFF9B2C}.Release|x64.ActiveCfg = Release|Any CPU
+		{0D1F34FF-F08F-421B-8BC9-38C05CFF9B2C}.Release|x64.Build.0 = Release|Any CPU
+		{0D1F34FF-F08F-421B-8BC9-38C05CFF9B2C}.Release|x86.ActiveCfg = Release|Any CPU
+		{0D1F34FF-F08F-421B-8BC9-38C05CFF9B2C}.Release|x86.Build.0 = Release|Any CPU
+		{4653416A-A52F-4CFC-BC5C-5DBCE328396D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4653416A-A52F-4CFC-BC5C-5DBCE328396D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4653416A-A52F-4CFC-BC5C-5DBCE328396D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4653416A-A52F-4CFC-BC5C-5DBCE328396D}.Debug|x64.Build.0 = Debug|Any CPU
+		{4653416A-A52F-4CFC-BC5C-5DBCE328396D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4653416A-A52F-4CFC-BC5C-5DBCE328396D}.Debug|x86.Build.0 = Debug|Any CPU
+		{4653416A-A52F-4CFC-BC5C-5DBCE328396D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4653416A-A52F-4CFC-BC5C-5DBCE328396D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4653416A-A52F-4CFC-BC5C-5DBCE328396D}.Release|x64.ActiveCfg = Release|Any CPU
+		{4653416A-A52F-4CFC-BC5C-5DBCE328396D}.Release|x64.Build.0 = Release|Any CPU
+		{4653416A-A52F-4CFC-BC5C-5DBCE328396D}.Release|x86.ActiveCfg = Release|Any CPU
+		{4653416A-A52F-4CFC-BC5C-5DBCE328396D}.Release|x86.Build.0 = Release|Any CPU
+		{0F3D40D4-D074-49D4-B8A5-0B30ADCFC1B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F3D40D4-D074-49D4-B8A5-0B30ADCFC1B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F3D40D4-D074-49D4-B8A5-0B30ADCFC1B1}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0F3D40D4-D074-49D4-B8A5-0B30ADCFC1B1}.Debug|x64.Build.0 = Debug|Any CPU
+		{0F3D40D4-D074-49D4-B8A5-0B30ADCFC1B1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0F3D40D4-D074-49D4-B8A5-0B30ADCFC1B1}.Debug|x86.Build.0 = Debug|Any CPU
+		{0F3D40D4-D074-49D4-B8A5-0B30ADCFC1B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F3D40D4-D074-49D4-B8A5-0B30ADCFC1B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F3D40D4-D074-49D4-B8A5-0B30ADCFC1B1}.Release|x64.ActiveCfg = Release|Any CPU
+		{0F3D40D4-D074-49D4-B8A5-0B30ADCFC1B1}.Release|x64.Build.0 = Release|Any CPU
+		{0F3D40D4-D074-49D4-B8A5-0B30ADCFC1B1}.Release|x86.ActiveCfg = Release|Any CPU
+		{0F3D40D4-D074-49D4-B8A5-0B30ADCFC1B1}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@OpenNetSemanticKernel.API_HostAddress = http://localhost:5042
+
+GET {{OpenNetSemanticKernel.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
