@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\OpenNetSemanticKernel.API\OpenNetSemanticKernel.API.csproj" />
+    <ProjectReference Include="..\..\..\Api\OpenNetSemanticKernel.API\OpenNetSemanticKernel.API.csproj" />
   </ItemGroup>
 
 </Project>

@@ -21,3 +21,5 @@ describe('App', () => {
     expect(compiled.querySelector('h1')?.textContent).toContain('Hello, OpenNetSemanticKernel.Angular.Web');
   });
 });
+
+// The new modular structure is now in place. Remove legacy flat app files that are no longer needed.
